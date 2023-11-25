@@ -24,20 +24,20 @@ var EVMJson=[{
     "standard": "EIP3091"
   }]
 }, {
-  "name": "Expanse Network",
-  "chain": "EXP",
-  "network": "mainnet",
-  "rpc": ["https://node.expanse.tech"],
+  "name": "WhaleChain",
+  "chain": "WHALE",
+  "network": "testnet",
+  "rpc": ["https://testnet.whalechain.live"],
   "faucets": [],
   "nativeCurrency": {
-    "name": "Expanse Network Ether",
-    "symbol": "EXP",
-    "decimals": 18
+    "name": "WhaleChain",
+    "symbol": "WHALE",
+    "decimals": 9
   },
-  "infoURL": "https://expanse.tech",
-  "shortName": "exp",
-  "chainId": 2,
-  "networkId": 1,
+  "infoURL": "https://whalechain.live",
+  "shortName": "WHALE",
+  "chainId": 370,
+  "networkId": 370,
   "slip44": 40
 }, {
   "name": "Ethereum Testnet Ropsten",
